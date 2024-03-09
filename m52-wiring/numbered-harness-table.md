@@ -1,4 +1,7 @@
-# testing tables
+# m52 Wiring Table
+
+![Wiring Harness](m52-wiring-harness.jpeg)
+
 
 | pin # | Connector Designation | Colors | Designation |
 | --- | --- | --- | --- |
