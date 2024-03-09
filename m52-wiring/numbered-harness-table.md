@@ -1,7 +1,7 @@
 # testing tables
 
-| Month    | Savings |
-| -------- | ------- |
-| January  | $250    |
-| February | $80     |
-| March    | $420    |
+| pin # | Connector Designation | Colors | Designation |
+| -------- | ------- | ------- | ------- |
+| January  | $250    | test | test |
+| February | $80     | test | test |
+| March    | $420    | test | test |
