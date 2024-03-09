@@ -1,10 +1,10 @@
 # testing tables
 
-<!-- | Pin #| Connector Type    | Colors | Designation |
-| -------- | ------- | test | test |
-| January  | $250    | test | test |
-| February | $80     | test | test |
-| March    | $420    | test | test | -->
+| Pin #| Connector Type    | Colors | Designation
+| -------- | ------- |
+| January  | $250    |
+| February | $80     |
+| March    | $420    |
 
 
 | Pin # | Connector | Colors | Designation |
