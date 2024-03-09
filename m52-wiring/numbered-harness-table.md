@@ -1,6 +1,6 @@
 # m52 Wiring Table
 
-![Wiring Harness](m52-wiring-harness.jpeg)
+![Wiring Harness](m52-numbered-harness.jpeg)
 
 
 | pin # | Connector Designation | Colors | Designation |
