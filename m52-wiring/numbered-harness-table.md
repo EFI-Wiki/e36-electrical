@@ -22,7 +22,7 @@
 | 15 | Single Wire Terminal | BRN | Ground G103: Right front strut tower |
 | 16 | Single Wire Terminal | RED | ?? Terminal near SAP ?? |
 | 17 | Single Wire Terminal | n/a | ?? Terminal near SAP ?? |
-| 18 | Round Plug 4-pin | n/a | Front o2 Sensor |
+| 18 | Round Plug 4-pin | n/a | Front O2 Sensor |
 | 19 | Round 4 Pin Plug | VIO/BRN - BRN/YLW - BRN/GRY | Temperature Sensor (Cylinder Head) |
 | 20 | Rectangular 2-pin | RED/WHT - YEL/BLU | Fuel Control Valve (Under car) |
 | 21 | Rectangular 2-pin | n/a | PCV Valve | 
@@ -35,10 +35,10 @@
 | 28 | Rectangular 2-pin (1 wire) |	BRN/GRN |	Oil Pressure Sensor |
 | 29 | Rectangular 2-pin |	n/a |	Intake Air Temperature Sensor |
 | 30 | Rectangular 3-pin |	n/a | Throttle Position Sensor |
-| 31 | Single Wire Terminal |	RED |	Starter |
-| 32 | Single Wire Terminal |	RED |	Alternator |
+| 31 | Single Wire Terminal |	RED |	Starter to Alternator |
+| 32 | Single Wire Terminal |	RED |	Alternator to Starter |
 | 33 | Rectangular 3-pin |	BRN - YLW - RED/WHT |	Crank Position Sensor (OBD2 in rear of block) |
-| 34 | Rectangular 3-pin (2-wires) |	YLW - BRN |	DME Harness #7
+| 34 | Rectangular 3-pin (2-wires) |	YLW - BRN |	DME Harness #7 or #11 |
 | 35 | Rectangular 2-pin | RED/WHT - VIO/GRN |	VANOS Solenoid |
 | 36 | Rectangular 2-pin | RED/WHT - VIO/GRN |	End of fuel injector control rail, #26 |
 | 37 | Rectangular 2-pin |	YLW/BLU - GRN/WHT |	Transmission Reverse Switch |
